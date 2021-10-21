@@ -1,0 +1,28 @@
+{
+  "name": "time-calci",
+  "version": "1.0.0",
+  "description": "Time Calculator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrcreatist/time-calci.git"
+  },
+  "keywords": [
+    "time",
+    "calci",
+    "converter",
+    "time-calci"
+  ],
+  "author": "Abhishek Verma <ahk.verma102@gmail.com> (https://abhishekverma.dev/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrcreatist/time-calci/issues"
+  },
+  "homepage": "https://github.com/mrcreatist/time-calci#readme",
+  "engines": {
+    "node": ">= 8.0.0"
+  }
+}
